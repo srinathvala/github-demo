@@ -1,1 +1,3 @@
+
 print("sahasra")
+print("nakshatra")
